@@ -1,0 +1,110 @@
+[
+  {
+    "driver_id": "DRV-001",
+    "name": "Raj Kumar",
+    "phone": "+91 98765 43210",
+    "license_number": "DL-AP-2026-001",
+    "status": "Active",
+    "assigned_bus_id": "BUS-101",
+    "password": "driver123"
+  },
+  {
+    "driver_id": "DRV-002",
+    "name": "Suresh Varma",
+    "phone": "+91 94401 23456",
+    "license_number": "DL-AP-2024-002",
+    "status": "Active",
+    "assigned_bus_id": "BUS-102",
+    "password": "driver123"
+  },
+  {
+    "driver_id": "DRV-003",
+    "name": "Ramesh Naik",
+    "phone": "+91 98480 34567",
+    "license_number": "DL-KA-2025-003",
+    "status": "Active",
+    "assigned_bus_id": "BUS-103",
+    "password": "driver123"
+  },
+  {
+    "driver_id": "DRV-004",
+    "name": "Anand Reddy",
+    "phone": "+91 97001 45678",
+    "license_number": "DL-TN-2023-004",
+    "status": "Active",
+    "assigned_bus_id": "BUS-104",
+    "password": "driver123"
+  },
+  {
+    "driver_id": "DRV-005",
+    "name": "Balwant Singh",
+    "phone": "+91 98220 56789",
+    "license_number": "DL-MH-2022-005",
+    "status": "Active",
+    "assigned_bus_id": "BUS-105",
+    "password": "driver123"
+  },
+  {
+    "driver_id": "DRV-006",
+    "name": "Venkat Ramana",
+    "phone": "+91 98850 67890",
+    "license_number": "DL-TS-2025-006",
+    "status": "Active",
+    "assigned_bus_id": "BUS-106",
+    "password": "driver123"
+  },
+  {
+    "driver_id": "DRV-007",
+    "name": "Manoj Nair",
+    "phone": "+91 94470 78901",
+    "license_number": "DL-KL-2024-007",
+    "status": "Active",
+    "assigned_bus_id": "BUS-107",
+    "password": "driver123"
+  },
+  {
+    "driver_id": "DRV-008",
+    "name": "Dilip Shinde",
+    "phone": "+91 98230 89012",
+    "license_number": "DL-MH-2023-008",
+    "status": "Active",
+    "assigned_bus_id": "BUS-108",
+    "password": "driver123"
+  },
+  {
+    "driver_id": "DRV-009",
+    "name": "Harvinder Singh",
+    "phone": "+91 98110 90123",
+    "license_number": "DL-DL-2025-009",
+    "status": "Active",
+    "assigned_bus_id": "BUS-109",
+    "password": "driver123"
+  },
+  {
+    "driver_id": "DRV-010",
+    "name": "Praveen Sawant",
+    "phone": "+91 98200 01234",
+    "license_number": "DL-GA-2024-010",
+    "status": "Active",
+    "assigned_bus_id": "BUS-110",
+    "password": "driver123"
+  },
+  {
+    "driver_id": "DRV-011",
+    "name": "Vikram Rathore",
+    "phone": "+91 98930 11223",
+    "license_number": "DL-RJ-2025-011",
+    "status": "Active",
+    "assigned_bus_id": null,
+    "password": "driver123"
+  },
+  {
+    "driver_id": "DRV-012",
+    "name": "Santosh Patil",
+    "phone": "+91 98690 33445",
+    "license_number": "DL-MH-2026-012",
+    "status": "On Leave",
+    "assigned_bus_id": null,
+    "password": "driver123"
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "seat_id": "SEAT-BUS-101-1A",
+    "bus_id": "BUS-101",
+    "seat_number": "1A",
+    "row": 1,
+    "column": "A",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Alexander Wright",
+      "age": 24,
+      "gender": "Male",
+      "phone": "+91 98765 11111",
+      "pickup": "Guntur",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "08:15 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-1B",
+    "bus_id": "BUS-101",
+    "seat_number": "1B",
+    "row": 1,
+    "column": "B",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Beatrix Potter",
+      "age": 22,
+      "gender": "Female",
+      "phone": "+91 98765 22222",
+      "pickup": "Guntur",
+      "drop": "Hyderabad",
+      "boarding_status": "NOT_BOARDED",
+      "boarded_at": null
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-1C",
+    "bus_id": "BUS-101",
+    "seat_number": "1C",
+    "row": 1,
+    "column": "C",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Michael Faraday",
+      "age": 37,
+      "gender": "Male",
+      "phone": "+91 98765 00012",
+      "pickup": "Piduguralla",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "10:14 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-1D",
+    "bus_id": "BUS-101",
+    "seat_number": "1D",
+    "row": 1,
+    "column": "D",
+    "seat_type": "SEATER",
+    "status": "UNBOOKED",
+    "passenger": null
+  },
+  {
+    "seat_id": "SEAT-BUS-101-2A",
+    "bus_id": "BUS-101",
+    "seat_number": "2A",
+    "row": 2,
+    "column": "A",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Charles Darwin",
+      "age": 30,
+      "gender": "Male",
+      "phone": "+91 98765 33333",
+      "pickup": "Narasaraopet",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "10:55 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-2B",
+    "bus_id": "BUS-101",
+    "seat_number": "2B",
+    "row": 2,
+    "column": "B",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Dorothy Vaughan",
+      "age": 28,
+      "gender": "Female",
+      "phone": "+91 98765 44444",
+      "pickup": "Guntur",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "08:18 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-2C",
+    "bus_id": "BUS-101",
+    "seat_number": "2C",
+    "row": 2,
+    "column": "C",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Lise Meitner",
+      "age": 41,
+      "gender": "Female",
+      "phone": "+91 98765 00013",
+      "pickup": "Piduguralla",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "10:14 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-2D",
+    "bus_id": "BUS-101",
+    "seat_number": "2D",
+    "row": 2,
+    "column": "D",
+    "seat_type": "SEATER",
+    "status": "UNBOOKED",
+    "passenger": null
+  },
+  {
+    "seat_id": "SEAT-BUS-101-3A",
+    "bus_id": "BUS-101",
+    "seat_number": "3A",
+    "row": 3,
+    "column": "A",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Ernest Rutherford",
+      "age": 35,
+      "gender": "Male",
+      "phone": "+91 98765 55555",
+      "pickup": "Guntur",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "08:20 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-3B",
+    "bus_id": "BUS-101",
+    "seat_number": "3B",
+    "row": 3,
+    "column": "B",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Florence Nightingale",
+      "age": 29,
+      "gender": "Female",
+      "phone": "+91 98765 66666",
+      "pickup": "Sattenapalli",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "09:20 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-3C",
+    "bus_id": "BUS-101",
+    "seat_number": "3C",
+    "row": 3,
+    "column": "C",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Richard Feynman",
+      "age": 29,
+      "gender": "Male",
+      "phone": "+91 98765 00014",
+      "pickup": "Piduguralla",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "10:15 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-3D",
+    "bus_id": "BUS-101",
+    "seat_number": "3D",
+    "row": 3,
+    "column": "D",
+    "seat_type": "SEATER",
+    "status": "UNBOOKED",
+    "passenger": null
+  },
+  {
+    "seat_id": "SEAT-BUS-101-4A",
+    "bus_id": "BUS-101",
+    "seat_number": "4A",
+    "row": 4,
+    "column": "A",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Galileo Galilei",
+      "age": 42,
+      "gender": "Male",
+      "phone": "+91 98765 77777",
+      "pickup": "Guntur",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "08:22 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-4B",
+    "bus_id": "BUS-101",
+    "seat_number": "4B",
+    "row": 4,
+    "column": "B",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "John Smith",
+      "age": 32,
+      "gender": "Male",
+      "phone": "+91 98765 88888",
+      "pickup": "Guntur",
+      "drop": "Hyderabad",
+      "boarding_status": "NOT_BOARDED",
+      "boarded_at": null
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-4C",
+    "bus_id": "BUS-101",
+    "seat_number": "4C",
+    "row": 4,
+    "column": "C",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Barbara McClintock",
+      "age": 33,
+      "gender": "Female",
+      "phone": "+91 98765 00015",
+      "pickup": "Narasaraopet",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "11:08 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-4D",
+    "bus_id": "BUS-101",
+    "seat_number": "4D",
+    "row": 4,
+    "column": "D",
+    "seat_type": "SEATER",
+    "status": "UNBOOKED",
+    "passenger": null
+  },
+  {
+    "seat_id": "SEAT-BUS-101-5A",
+    "bus_id": "BUS-101",
+    "seat_number": "5A",
+    "row": 5,
+    "column": "A",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Isaac Newton",
+      "age": 40,
+      "gender": "Male",
+      "phone": "+91 98765 99999",
+      "pickup": "Piduguralla",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "10:15 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-5B",
+    "bus_id": "BUS-101",
+    "seat_number": "5B",
+    "row": 5,
+    "column": "B",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Jane Goodall",
+      "age": 27,
+      "gender": "Female",
+      "phone": "+91 98765 00001",
+      "pickup": "Guntur",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "08:25 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-5C",
+    "bus_id": "BUS-101",
+    "seat_number": "5C",
+    "row": 5,
+    "column": "C",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Stephen Hawking",
+      "age": 36,
+      "gender": "Male",
+      "phone": "+91 98765 00016",
+      "pickup": "Narasaraopet",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "11:09 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-5D",
+    "bus_id": "BUS-101",
+    "seat_number": "5D",
+    "row": 5,
+    "column": "D",
+    "seat_type": "SEATER",
+    "status": "UNBOOKED",
+    "passenger": null
+  },
+  {
+    "seat_id": "SEAT-BUS-101-6A",
+    "bus_id": "BUS-101",
+    "seat_number": "6A",
+    "row": 6,
+    "column": "A",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Johannes Kepler",
+      "age": 38,
+      "gender": "Male",
+      "phone": "+91 98765 00002",
+      "pickup": "Sattenapalli",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "09:22 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-6B",
+    "bus_id": "BUS-101",
+    "seat_number": "6B",
+    "row": 6,
+    "column": "B",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Katherine Johnson",
+      "age": 31,
+      "gender": "Female",
+      "phone": "+91 98765 00003",
+      "pickup": "Guntur",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "08:27 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-6C",
+    "bus_id": "BUS-101",
+    "seat_number": "6C",
+    "row": 6,
+    "column": "C",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Grace Hopper",
+      "age": 32,
+      "gender": "Female",
+      "phone": "+91 98765 00017",
+      "pickup": "Piduguralla",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "10:16 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-6D",
+    "bus_id": "BUS-101",
+    "seat_number": "6D",
+    "row": 6,
+    "column": "D",
+    "seat_type": "SEATER",
+    "status": "UNBOOKED",
+    "passenger": null
+  },
+  {
+    "seat_id": "SEAT-BUS-101-7A",
+    "bus_id": "BUS-101",
+    "seat_number": "7A",
+    "row": 7,
+    "column": "A",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Louis Pasteur",
+      "age": 45,
+      "gender": "Male",
+      "phone": "+91 98765 00004",
+      "pickup": "Sattenapalli",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "09:24 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-7B",
+    "bus_id": "BUS-101",
+    "seat_number": "7B",
+    "row": 7,
+    "column": "B",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Marie Curie",
+      "age": 36,
+      "gender": "Female",
+      "phone": "+91 98765 00005",
+      "pickup": "Piduguralla",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "10:16 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-7C",
+    "bus_id": "BUS-101",
+    "seat_number": "7C",
+    "row": 7,
+    "column": "C",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Carl Sagan",
+      "age": 35,
+      "gender": "Male",
+      "phone": "+91 98765 00018",
+      "pickup": "Piduguralla",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "10:17 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-7D",
+    "bus_id": "BUS-101",
+    "seat_number": "7D",
+    "row": 7,
+    "column": "D",
+    "seat_type": "SEATER",
+    "status": "UNBOOKED",
+    "passenger": null
+  },
+  {
+    "seat_id": "SEAT-BUS-101-8A",
+    "bus_id": "BUS-101",
+    "seat_number": "8A",
+    "row": 8,
+    "column": "A",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Nikola Tesla",
+      "age": 33,
+      "gender": "Male",
+      "phone": "+91 98765 00006",
+      "pickup": "Piduguralla",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "10:17 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-8B",
+    "bus_id": "BUS-101",
+    "seat_number": "8B",
+    "row": 8,
+    "column": "B",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Rosalind Franklin",
+      "age": 26,
+      "gender": "Female",
+      "phone": "+91 98765 00007",
+      "pickup": "Narasaraopet",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "11:05 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-8C",
+    "bus_id": "BUS-101",
+    "seat_number": "8C",
+    "row": 8,
+    "column": "C",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Rachel Carson",
+      "age": 28,
+      "gender": "Female",
+      "phone": "+91 98765 00019",
+      "pickup": "Piduguralla",
+      "drop": "Hyderabad",
+      "boarding_status": "NOT_BOARDED",
+      "boarded_at": null
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-8D",
+    "bus_id": "BUS-101",
+    "seat_number": "8D",
+    "row": 8,
+    "column": "D",
+    "seat_type": "SEATER",
+    "status": "UNBOOKED",
+    "passenger": null
+  },
+  {
+    "seat_id": "SEAT-BUS-101-9A",
+    "bus_id": "BUS-101",
+    "seat_number": "9A",
+    "row": 9,
+    "column": "A",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Niels Bohr",
+      "age": 39,
+      "gender": "Male",
+      "phone": "+91 98765 00008",
+      "pickup": "Piduguralla",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "10:18 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-9B",
+    "bus_id": "BUS-101",
+    "seat_number": "9B",
+    "row": 9,
+    "column": "B",
+    "seat_type": "SEATER",
+    "status": "BOOKED",
+    "passenger": {
+      "name": "Ada Lovelace",
+      "age": 25,
+      "gender": "Female",
+      "phone": "+91 98765 00009",
+      "pickup": "Narasaraopet",
+      "drop": "Hyderabad",
+      "boarding_status": "BOARDED",
+      "boarded_at": "11:07 AM"
+    }
+  },
+  {
+    "seat_id": "SEAT-BUS-101-9C",
+    "bus_id": "BUS-101",
+    "seat_number": "9C",
+    "row": 9,
+    "column": "C",
+    "seat_type": "SEATER",
+    "status": "UNBOOKED",
+    "passenger": null
+  },
+  {
+    "seat_id": "SEAT-BUS-101-9D",
+    "bus_id": "BUS-101",
+    "seat_number": "9D",
+    "row": 9,
+    "column": "D",
+    "seat_type": "SEATER",
+    "status": "UNBOOKED",
+    "passenger": null
+  }
+]

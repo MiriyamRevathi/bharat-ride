@@ -1,0 +1,56 @@
+[
+  {
+    "notification_id": "NOTIF-DRV-001",
+    "driver_id": "DRV-001",
+    "title": "New trip assigned",
+    "message": "You have been assigned to Trip TRIP-001 (Guntur to Hyderabad) departing at 08:30 AM on 05 September 2026.",
+    "date_time": "2026-09-05 06:30 AM",
+    "read": false,
+    "type": "New trip assigned"
+  },
+  {
+    "notification_id": "NOTIF-DRV-002",
+    "driver_id": "DRV-001",
+    "title": "Departure reminder",
+    "message": "Trip TRIP-001 scheduled departure in 30 minutes from Guntur RTC Complex Bay 4.",
+    "date_time": "2026-09-05 08:00 AM",
+    "read": false,
+    "type": "Departure reminder"
+  },
+  {
+    "notification_id": "NOTIF-DRV-003",
+    "driver_id": "DRV-001",
+    "title": "Route changed",
+    "message": "Piduguralla bypass route active today due to road improvement. Duration remains on schedule.",
+    "date_time": "2026-09-05 07:45 AM",
+    "read": true,
+    "type": "Route changed"
+  },
+  {
+    "notification_id": "NOTIF-DRV-004",
+    "driver_id": "DRV-001",
+    "title": "Important passenger update",
+    "message": "Special assistance requested: Elderly passenger on seat 7A boarding at Sattenapalli.",
+    "date_time": "2026-09-05 07:15 AM",
+    "read": false,
+    "type": "Important passenger update"
+  },
+  {
+    "notification_id": "NOTIF-DRV-005",
+    "driver_id": "DRV-001",
+    "title": "Trip schedule changed",
+    "message": "Hyderabad arrival terminal confirmed as MGBS Central Terminal Bay 12.",
+    "date_time": "2026-09-04 09:00 PM",
+    "read": true,
+    "type": "Trip schedule changed"
+  },
+  {
+    "notification_id": "NOTIF-DRV-006",
+    "driver_id": "DRV-001",
+    "title": "Bus assignment changed",
+    "message": "Bus TS 09 UB 7812 (Express AC Sleeper) completed routine safety and tire check.",
+    "date_time": "2026-09-04 06:00 PM",
+    "read": true,
+    "type": "Bus assignment changed"
+  }
+]

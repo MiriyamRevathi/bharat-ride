@@ -1,0 +1,6 @@
+{
+  "name": "BharatRide - Bus Travel Booking & Management System",
+  "description": "Comprehensive bus travel booking platform, admin fleet management portal, and dedicated driver operations application with real-time seat selection, passenger manifests, and route schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

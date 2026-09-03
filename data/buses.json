@@ -1,0 +1,217 @@
+[
+  {
+    "id": "BUS-101",
+    "name": "Express AC Sleeper",
+    "operator": "Garuda Premium Lines",
+    "busNumber": "TS 09 UB 7812",
+    "busType": "Express AC Sleeper",
+    "totalSeats": 36,
+    "layoutType": "seater_2_2",
+    "rating": 4.8,
+    "totalRatings": 1420,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Charging Point",
+      "Blanket",
+      "Water Bottle",
+      "Live Tracking"
+    ],
+    "status": "ACTIVE",
+    "baseFare": 850,
+    "driver_id": "DRV-001"
+  },
+  {
+    "id": "BUS-102",
+    "name": "Vayu Royal Class AC Sleeper",
+    "operator": "Vayu Travels",
+    "busNumber": "AP 16 TZ 4509",
+    "busType": "AC Sleeper (2+1)",
+    "totalSeats": 30,
+    "layoutType": "sleeper_2_1",
+    "rating": 4.7,
+    "totalRatings": 980,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Charging Point",
+      "Blanket",
+      "Pillow",
+      "Reading Light",
+      "Live Tracking"
+    ],
+    "status": "ACTIVE",
+    "baseFare": 1100,
+    "driver_id": "DRV-002"
+  },
+  {
+    "id": "BUS-103",
+    "name": "Bharat Star Electric Intercity",
+    "operator": "Bharat Super Express",
+    "busNumber": "KA 01 EK 9021",
+    "busType": "Electric AC Sleeper (2+1)",
+    "totalSeats": 30,
+    "layoutType": "sleeper_2_1",
+    "rating": 4.9,
+    "totalRatings": 1850,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Charging Point",
+      "Blanket",
+      "Reading Light",
+      "Live Tracking",
+      "Snack Pack"
+    ],
+    "status": "ACTIVE",
+    "baseFare": 1250,
+    "driver_id": "DRV-003"
+  },
+  {
+    "id": "BUS-104",
+    "name": "Kaveri Diamond Semi-Sleeper",
+    "operator": "Kaveri Intercity",
+    "busNumber": "TN 02 BK 3341",
+    "busType": "AC Semi-Sleeper (2+2)",
+    "totalSeats": 40,
+    "layoutType": "semi_sleeper_2_2",
+    "rating": 4.5,
+    "totalRatings": 630,
+    "amenities": [
+      "AC",
+      "Charging Point",
+      "Water Bottle",
+      "Live Tracking",
+      "CCTV"
+    ],
+    "status": "ACTIVE",
+    "baseFare": 716,
+    "driver_id": "DRV-004"
+  },
+  {
+    "id": "BUS-105",
+    "name": "Deccan Express Non-AC Sleeper",
+    "operator": "Deccan Royal",
+    "busNumber": "MH 12 CR 1199",
+    "busType": "Non-AC Sleeper (2+1)",
+    "totalSeats": 30,
+    "layoutType": "sleeper_2_1",
+    "rating": 4.2,
+    "totalRatings": 410,
+    "amenities": [
+      "Charging Point",
+      "Pillow",
+      "Reading Light",
+      "Emergency Exit"
+    ],
+    "status": "ACTIVE",
+    "baseFare": 550,
+    "driver_id": "DRV-005"
+  },
+  {
+    "id": "BUS-106",
+    "name": "Orange Platinum BharatBenz AC",
+    "operator": "Orange City Lines",
+    "busNumber": "TS 07 EA 5522",
+    "busType": "BharatBenz AC Seater (2+2)",
+    "totalSeats": 36,
+    "layoutType": "seater_2_2",
+    "rating": 4.6,
+    "totalRatings": 840,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Charging Point",
+      "Water Bottle",
+      "Live Tracking"
+    ],
+    "status": "ACTIVE",
+    "baseFare": 750,
+    "driver_id": "DRV-006"
+  },
+  {
+    "id": "BUS-107",
+    "name": "Kallada King Gold Sleeper",
+    "operator": "Kallada Luxury",
+    "busNumber": "KL 07 CD 8820",
+    "busType": "AC Sleeper (2+1)",
+    "totalSeats": 30,
+    "layoutType": "sleeper_2_1",
+    "rating": 4.7,
+    "totalRatings": 1120,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Charging Point",
+      "Blanket",
+      "Pillow",
+      "Live Tracking"
+    ],
+    "status": "ACTIVE",
+    "baseFare": 1150,
+    "driver_id": "DRV-007"
+  },
+  {
+    "id": "BUS-108",
+    "name": "Neeta Grand Cruiser Multi-Axle",
+    "operator": "Neeta Tours",
+    "busNumber": "MH 04 AX 6644",
+    "busType": "Volvo Multi-Axle AC (2+2)",
+    "totalSeats": 40,
+    "layoutType": "seater_2_2",
+    "rating": 4.4,
+    "totalRatings": 520,
+    "amenities": [
+      "AC",
+      "Charging Point",
+      "Water Bottle",
+      "Live Tracking"
+    ],
+    "status": "ACTIVE",
+    "baseFare": 700,
+    "driver_id": "DRV-008"
+  },
+  {
+    "id": "BUS-109",
+    "name": "Bharat Prime Executive AC Sleeper",
+    "operator": "Bharat Super Express",
+    "busNumber": "DL 01 AA 2314",
+    "busType": "AC Sleeper (2+1)",
+    "totalSeats": 30,
+    "layoutType": "sleeper_2_1",
+    "rating": 4.8,
+    "totalRatings": 940,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Charging Point",
+      "Blanket",
+      "Pillow",
+      "Live Tracking"
+    ],
+    "status": "ACTIVE",
+    "baseFare": 950,
+    "driver_id": "DRV-009"
+  },
+  {
+    "id": "BUS-110",
+    "name": "Vayu Night Rider Sleeper",
+    "operator": "Vayu Travels",
+    "busNumber": "GA 03 Z 9911",
+    "busType": "AC Sleeper (2+1)",
+    "totalSeats": 30,
+    "layoutType": "sleeper_2_1",
+    "rating": 4.6,
+    "totalRatings": 790,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Charging Point",
+      "Blanket",
+      "Live Tracking"
+    ],
+    "status": "ACTIVE",
+    "baseFare": 1300,
+    "driver_id": "DRV-010"
+  }
+]

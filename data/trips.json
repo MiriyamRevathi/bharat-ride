@@ -1,0 +1,228 @@
+[
+  {
+    "id": "TRIP-001",
+    "trip_id": "TRIP-001",
+    "busId": "BUS-101",
+    "bus_id": "BUS-101",
+    "driver_id": "DRV-001",
+    "routeId": "ROT-001",
+    "from": "Guntur",
+    "to": "Hyderabad",
+    "sourceCity": "Guntur",
+    "destinationCity": "Hyderabad",
+    "travelDate": "2026-09-05",
+    "journeyDate": "05 September 2026",
+    "departureTime": "08:30 AM",
+    "arrivalTime": "02:30 PM",
+    "nextDayArrival": false,
+    "totalPassengers": 28,
+    "boarded": 24,
+    "notBoarded": 4,
+    "tripStatus": "Ready",
+    "status": "SCHEDULED",
+    "startedAt": null,
+    "completedAt": null,
+    "fareMultiplier": 1,
+    "routeStops": [
+      {
+        "stopName": "Guntur",
+        "arrivalTime": "08:00 AM",
+        "departureTime": "08:30 AM",
+        "distanceKm": 0,
+        "passengersBoarding": 8,
+        "passengersDropping": 0
+      },
+      {
+        "stopName": "Sattenapalli",
+        "arrivalTime": "09:15 AM",
+        "departureTime": "09:25 AM",
+        "distanceKm": 35,
+        "passengersBoarding": 4,
+        "passengersDropping": 2
+      },
+      {
+        "stopName": "Piduguralla",
+        "arrivalTime": "10:10 AM",
+        "departureTime": "10:20 AM",
+        "distanceKm": 75,
+        "passengersBoarding": 11,
+        "passengersDropping": 0
+      },
+      {
+        "stopName": "Narasaraopet",
+        "arrivalTime": "11:00 AM",
+        "departureTime": "11:10 AM",
+        "distanceKm": 110,
+        "passengersBoarding": 5,
+        "passengersDropping": 3
+      },
+      {
+        "stopName": "Hyderabad",
+        "arrivalTime": "02:30 PM",
+        "departureTime": "Terminates",
+        "distanceKm": 285,
+        "passengersBoarding": 0,
+        "passengersDropping": 25
+      }
+    ]
+  },
+  {
+    "id": "TRIP-002",
+    "trip_id": "TRIP-002",
+    "busId": "BUS-101",
+    "bus_id": "BUS-101",
+    "driver_id": "DRV-001",
+    "routeId": "ROT-002",
+    "from": "Hyderabad",
+    "to": "Guntur",
+    "sourceCity": "Hyderabad",
+    "destinationCity": "Guntur",
+    "travelDate": "2026-09-06",
+    "journeyDate": "06 September 2026",
+    "departureTime": "09:00 PM",
+    "arrivalTime": "04:30 AM",
+    "nextDayArrival": true,
+    "totalPassengers": 20,
+    "boarded": 0,
+    "notBoarded": 20,
+    "tripStatus": "Upcoming",
+    "status": "SCHEDULED",
+    "startedAt": null,
+    "completedAt": null,
+    "fareMultiplier": 1,
+    "routeStops": [
+      {
+        "stopName": "Hyderabad",
+        "arrivalTime": "08:30 PM",
+        "departureTime": "09:00 PM",
+        "distanceKm": 0,
+        "passengersBoarding": 20,
+        "passengersDropping": 0
+      },
+      {
+        "stopName": "Narasaraopet",
+        "arrivalTime": "02:00 AM",
+        "departureTime": "02:10 AM",
+        "distanceKm": 175,
+        "passengersBoarding": 0,
+        "passengersDropping": 5
+      },
+      {
+        "stopName": "Piduguralla",
+        "arrivalTime": "02:50 AM",
+        "departureTime": "03:00 AM",
+        "distanceKm": 210,
+        "passengersBoarding": 0,
+        "passengersDropping": 3
+      },
+      {
+        "stopName": "Sattenapalli",
+        "arrivalTime": "03:45 AM",
+        "departureTime": "03:55 AM",
+        "distanceKm": 250,
+        "passengersBoarding": 0,
+        "passengersDropping": 2
+      },
+      {
+        "stopName": "Guntur",
+        "arrivalTime": "04:30 AM",
+        "departureTime": "Terminates",
+        "distanceKm": 285,
+        "passengersBoarding": 0,
+        "passengersDropping": 10
+      }
+    ]
+  },
+  {
+    "id": "TRIP-003",
+    "trip_id": "TRIP-003",
+    "busId": "BUS-101",
+    "bus_id": "BUS-101",
+    "driver_id": "DRV-001",
+    "routeId": "ROT-001",
+    "from": "Guntur",
+    "to": "Hyderabad",
+    "sourceCity": "Guntur",
+    "destinationCity": "Hyderabad",
+    "travelDate": "2026-09-03",
+    "journeyDate": "03 September 2026",
+    "departureTime": "08:30 AM",
+    "arrivalTime": "02:30 PM",
+    "nextDayArrival": false,
+    "totalPassengers": 32,
+    "boarded": 32,
+    "notBoarded": 0,
+    "tripStatus": "Completed",
+    "status": "COMPLETED",
+    "startedAt": "08:30 AM",
+    "completedAt": "02:25 PM",
+    "fareMultiplier": 1,
+    "routeStops": [
+      {
+        "stopName": "Guntur",
+        "arrivalTime": "08:00 AM",
+        "departureTime": "08:30 AM",
+        "distanceKm": 0,
+        "passengersBoarding": 12,
+        "passengersDropping": 0
+      },
+      {
+        "stopName": "Sattenapalli",
+        "arrivalTime": "09:15 AM",
+        "departureTime": "09:25 AM",
+        "distanceKm": 35,
+        "passengersBoarding": 6,
+        "passengersDropping": 1
+      },
+      {
+        "stopName": "Piduguralla",
+        "arrivalTime": "10:10 AM",
+        "departureTime": "10:20 AM",
+        "distanceKm": 75,
+        "passengersBoarding": 8,
+        "passengersDropping": 1
+      },
+      {
+        "stopName": "Narasaraopet",
+        "arrivalTime": "11:00 AM",
+        "departureTime": "11:10 AM",
+        "distanceKm": 110,
+        "passengersBoarding": 6,
+        "passengersDropping": 2
+      },
+      {
+        "stopName": "Hyderabad",
+        "arrivalTime": "02:30 PM",
+        "departureTime": "Terminates",
+        "distanceKm": 285,
+        "passengersBoarding": 0,
+        "passengersDropping": 28
+      }
+    ]
+  },
+  {
+    "id": "TRIP-004",
+    "trip_id": "TRIP-004",
+    "busId": "BUS-102",
+    "bus_id": "BUS-102",
+    "driver_id": "DRV-002",
+    "routeId": "ROT-001",
+    "from": "Guntur",
+    "to": "Hyderabad",
+    "sourceCity": "Guntur",
+    "destinationCity": "Hyderabad",
+    "travelDate": "2026-09-05",
+    "journeyDate": "05 September 2026",
+    "departureTime": "10:00 PM",
+    "arrivalTime": "05:00 AM",
+    "nextDayArrival": true,
+    "totalPassengers": 22,
+    "boarded": 18,
+    "notBoarded": 4,
+    "tripStatus": "Ready",
+    "status": "SCHEDULED",
+    "startedAt": null,
+    "completedAt": null,
+    "fareMultiplier": 1.05
+  }
+]

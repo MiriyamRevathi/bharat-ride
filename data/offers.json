@@ -1,0 +1,7 @@
+[
+  { "id": "OFF-001", "code": "WELCOME100", "title": "First Trip Flat Discount", "discountType": "FLAT", "discountValue": 100, "minBookingAmount": 500, "status": "ACTIVE" },
+  { "id": "OFF-002", "code": "FIRSTBUS", "title": "15% Off New Travelers Special", "discountType": "PERCENTAGE", "discountValue": 15, "maxDiscount": 150, "minBookingAmount": 600, "status": "ACTIVE" },
+  { "id": "OFF-003", "code": "TRAVEL200", "title": "Grand Highway Mega Saver", "discountType": "FLAT", "discountValue": 200, "minBookingAmount": 1200, "status": "ACTIVE" },
+  { "id": "OFF-004", "code": "WEEKEND10", "title": "Weekend Getaway 10% Off", "discountType": "PERCENTAGE", "discountValue": 10, "maxDiscount": 120, "minBookingAmount": 400, "status": "ACTIVE" },
+  { "id": "OFF-005", "code": "ECOELECTRIC", "title": "Green Ride EV Cashback", "discountType": "FLAT", "discountValue": 150, "minBookingAmount": 900, "status": "ACTIVE" }
+]

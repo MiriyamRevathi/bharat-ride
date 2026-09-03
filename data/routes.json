@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ROT-001",
+    "sourceCity": "Guntur",
+    "destinationCity": "Hyderabad",
+    "distanceKm": 285,
+    "estimatedDuration": "6h 00m",
+    "status": "ACTIVE",
+    "popularStops": [
+      "Guntur",
+      "Sattenapalli",
+      "Piduguralla",
+      "Narasaraopet",
+      "Hyderabad"
+    ]
+  },
+  {
+    "id": "ROT-002",
+    "sourceCity": "Hyderabad",
+    "destinationCity": "Guntur",
+    "distanceKm": 285,
+    "estimatedDuration": "6h 00m",
+    "status": "ACTIVE",
+    "popularStops": [
+      "Hyderabad",
+      "Narasaraopet",
+      "Piduguralla",
+      "Sattenapalli",
+      "Guntur"
+    ]
+  },
+  {
+    "id": "ROT-003",
+    "sourceCity": "Vijayawada",
+    "destinationCity": "Hyderabad",
+    "distanceKm": 275,
+    "estimatedDuration": "5h 15m",
+    "status": "ACTIVE",
+    "popularStops": [
+      "Vijayawada",
+      "Ibrahimpatnam",
+      "Kodad",
+      "Suryapet",
+      "Hyderabad"
+    ]
+  }
+]
